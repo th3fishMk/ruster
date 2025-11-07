@@ -1,3 +1,3 @@
-# Rost
+# Ruster
 
-This is a Rust learning repository, this repo, together with my [rustlings](https://github.com/th3fishMk/rustlings) are the foundation of my rust carer
+Rust is the language of choice for my desktop, cli and all other but web apps. So, we better learn it the right way
